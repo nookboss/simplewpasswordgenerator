@@ -1,0 +1,33 @@
+{
+  "name": "simplewpasswordgenerator",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "simplewpasswordgenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nookboss/simplewpasswordgenerator"
+  },
+  "website": "https://github.com/nookboss/simplewpasswordgenerator.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "nookboss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nookboss/simplewpasswordgenerator/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/nookboss/simplewpasswordgenerator#readme",
+  "dependencies": {
+    "authoritycontrols": "1.0.2"
+  }
+}
